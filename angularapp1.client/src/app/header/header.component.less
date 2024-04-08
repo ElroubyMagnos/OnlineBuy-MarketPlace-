@@ -1,0 +1,495 @@
+@maincolor: #CF0000;
+@btncolor: #E8F9FD;
+@hovercolor: #59CE8F;
+@btnhover: #64CCC5;
+
+*
+{
+    transition: all linear 1s;
+}
+
+nav
+{
+    background-color: @maincolor;
+
+    @media (max-width: 767px) {
+        flex-direction: column;
+    }
+}
+
+#db
+{
+    h1
+    {
+        color: white;
+        background-color: @maincolor;
+        width: fit-content;
+        position: relative;
+        margin: 25px auto;
+
+        &:hover
+        {
+            background-color: @btnhover;
+        }
+
+        &:hover::before
+        {
+            background-color: @maincolor;
+        }
+
+        &:hover::after
+        {
+            background-color: @maincolor;
+        }
+
+        &::before
+        {
+            content: '';
+            background-color: black;
+            display: block;
+            position: absolute;
+            width: 242px;
+            height: 5px;
+        }
+
+        &::after
+        {
+            content: '';
+            background-color: black;
+            display: block;
+            position: absolute;
+            width: 242px;
+            height: 5px;
+        }
+    }
+
+    .Post
+    {
+        background-color: @hovercolor;
+        
+        .changecat
+        {
+            padding: 50px;
+            border: 2px dotted black;
+        }
+
+        .CatManage
+        {
+            button
+            {
+                margin: 0 auto;
+            }
+        }
+
+        input, textarea, select
+        {
+            margin: 5px auto;
+            display: block;
+            padding: 25px;
+        }
+
+        input
+        {
+            font-size: 25px;
+        }
+
+        textarea
+        {
+            font-size: 20px;
+            width: 500px;
+            height: 350px;
+            resize: none;
+        }
+
+        button[type="submit"]
+        {
+            margin: 5px auto;
+            display: block;
+            padding: 10px 20px;
+        }
+    }
+}
+
+#home, #fatora
+{
+    .product
+    {
+        padding: 5px 20px;
+        border-radius: 5px;
+        margin: 5px;
+        background-color: @maincolor;
+        width: 250px;
+        height: 475px;
+        text-align: center;
+        color: white;
+        position: relative;
+
+        div
+        {
+            justify-content: space-between;
+            align-items: center;
+            span
+            {
+                background-color: red;
+                padding: 0 5px;
+                width:fit-content;
+                height: fit-content;
+            }
+        }
+
+        img
+        {
+            border: 3px solid @hovercolor;
+        }
+
+        p:first-child
+        {
+            background-color: @hovercolor;
+            width: fit-content;
+            height: fit-content;
+            padding: 5px;
+            border-radius: 3px;
+        }
+
+        button
+        {
+            background-color: @btncolor;
+            width: 100%;
+            height: 50px;
+            border: none;
+            padding: 10px;
+            cursor: pointer;
+
+            &:hover
+            {
+                background-color: red;
+            }
+        }
+
+        p:nth-child(5)
+        {
+            text-align: right;
+            margin-left: auto;
+            cursor: pointer;
+        }
+        p
+        {
+            background-color: @hovercolor;
+            width: fit-content;
+            height: fit-content;
+            padding: 5px;
+            border-radius: 3px;
+        }
+    }
+}
+
+#fatora
+{
+    .product
+    {
+        background-color: black;
+        height: 535px;
+    }
+}
+
+#home .Cart
+{
+    text-align: center;
+    position: fixed;
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 100%;
+    width: 300px;
+    left: -300px;
+    top: 0;
+    z-index: 1;
+
+    .packet
+    {
+        .OneProduct
+        {
+            padding: 2px;
+            margin: 5px;
+            background-color: @maincolor;
+            border: 2px solid black;
+            
+            .productremover
+            {
+                display: block;
+                margin-right: auto;
+                text-align: left;
+            }
+
+            div
+            {
+                p
+                {
+                    margin: 0;
+                }
+            }
+        }
+
+        overflow-y: auto;
+        height: 79%;
+    }
+
+    .AllContainer
+    {
+        background-color: red;
+        padding: 5px;
+        border-radius: 5px;
+    }
+
+    h1
+    {
+        color: white;
+        background-color: @hovercolor;
+        z-index: 2;
+    }
+
+    i
+    {
+        position: absolute;
+        right: -38px;
+        top: 100px;
+        background-color: rgba(0, 0, 0, 0.5);
+        padding: 5px;
+        color: red;
+        cursor: pointer;
+    }
+
+    #CountPacket
+    {
+        position: absolute;
+        right: -42px;
+        top: 72px;
+        display: block;
+        color: red;
+        font-weight: bolder;
+        font-size: 25px;
+    }
+}
+
+#home
+{
+    #buyselected
+    {
+        position: fixed;
+        right: 10px;
+        bottom: 25px;
+        font-size: larger;
+        z-index: 9;
+        background-color: red;
+        border: none;
+        color: whitesmoke;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 5px;
+        padding-right: 5px;
+        cursor: pointer;
+    }
+    
+    .blackscreen
+    {
+        background-color: rgba(0, 0, 0, 0.5);
+        position: fixed;
+        width: 100%;
+        height: 100%;
+        z-index: 4;
+        top: 0;
+        left: 0;
+        display: none;
+
+        .Buypopup
+        {
+    
+            background-color: @maincolor;
+            position: fixed;
+            transform: translate(60%, 30%);
+            top: 0;
+            left: 0;
+            width: 40%;
+            height: 60%;
+            z-index: 5;
+            padding: 20px;
+            border: 2px dotted red;
+            border-radius: 5px;
+
+            @media (max-width: 767px) {
+                width: 60%;
+                transform: translate(20%, 30%);
+                
+            }
+
+            input
+            {
+                max-width: 90%;
+            }
+
+            p
+            {
+                background-color: @hovercolor;
+                width: fit-content;
+                height: fit-content;
+                margin: 5px auto;
+                padding: 5px;
+                color:white;
+                border-radius: 5px;
+            }
+
+            img
+            {
+                border: 2px solid black;
+                box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+                max-width: 100%;
+            }
+
+            button:first-child
+            {
+                background-color: red;
+                border: none;
+                width: 35px;
+                height: 35px;
+                font-size: 20px;
+                cursor: pointer;
+            }
+
+            button:last-child
+            {
+                margin: 10px auto;
+                display: block;
+            }
+        }
+    }
+}
+
+.CatContainer
+{
+    p
+    {
+        background-color: @hovercolor;
+        border-radius: 10px;
+        padding: 5px 10px;
+        color: whitesmoke;
+        cursor: pointer;
+
+        &:hover
+        {
+            background-color: @maincolor;
+        }
+    }
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: white;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: red;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: @btnhover;
+  }
+
+  #fatora
+  {
+    background-color: @maincolor;
+    padding: 25px;
+    margin-top: 10px;
+
+    .datacontainer
+    {
+        width: fit-content;
+        height: fit-content;
+        background-color: @hovercolor;
+        padding: 25px;
+        border-radius: 5px;
+
+        button
+        {
+            display: block;
+            margin-left: auto;
+            padding: 10px;
+            font-size: 15px;
+            margin-top: 7px;
+        }
+    }
+
+    input
+    {
+        padding: 10px;
+        border-radius: 15px;
+        outline: none;
+        border: none;
+        display: block;
+        font-size: larger;
+        margin-top: 5px;
+    }
+
+    h1
+    {
+        background-color: @hovercolor;
+        width: fit-content;
+        height: fit-content;
+        text-align: center;
+        margin: 0 auto;
+        padding: 15px;
+
+        span
+        {
+            background-color: red;
+            border-radius: 10px;
+            padding: 5px;
+        }
+    }
+
+    p
+    {
+        font-size: 25px;
+        background-color: @hovercolor;
+        padding: 10px;
+        border-radius: 10px;
+    }
+
+    select
+    {
+        padding: 10px;
+        background-color: red;
+        font-size: 25px;
+    }
+  }
+
+  #billnumberpanel
+  {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 9;
+
+    div
+    {
+        background-color: @maincolor;
+        width: fit-content;
+        height: fit-content;
+        transform: translateY(100%);
+        margin: 0 auto;
+        padding: 5px;
+        border-radius: 5px;
+    }
+  }
+
+  .billpacket
+  {
+    background-color: @maincolor;
+  }

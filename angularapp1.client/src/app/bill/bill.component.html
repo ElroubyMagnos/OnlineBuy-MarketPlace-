@@ -1,0 +1,47 @@
+<article id='fatora'>
+    <h1>Your Bill Ticket Number is 
+        <input readonly type="text" [value]="BillNumber" #bnum/>
+        <button class='btn-padding-5-10 fs-25px' (click)="copyInputMessage(bnum)" class='btn-red-flat'>Copy</button>
+    </h1>
+    <section class="DataBox">
+        <p> 
+            Branch 
+            <select [disabled]="Lock" #branchname id='branchcontainer'>
+                <option value="Unselected">Select Branch</option>
+                <option *ngFor="let bra of Branches" [value]="bra.branchName">{{bra.branchName}}</option>
+            </select>
+        </p>
+        <p>
+            Delivery or TakeAway?
+            <select [disabled]="Lock" #delortaorr (change)="Addresshidden = delortaorr.value !== 'Delivery';Reserve = delortaorr.value === 'Reserve';" id='deliveryortakeaway'>
+                <option value="Unselected">Unselected</option>
+                <option value="Delivery">Delivery</option>
+                <option value="TakeAway">TakeAway</option>
+                <option value="Reserve">Reserve a Table</option>
+            </select>
+        </p>
+        <div *ngIf="!Reserve || ValidBillNumber" class='datacontainer'>
+            <input id="BAddress" [disabled]="Lock" #address [hidden]="Addresshidden" type="text" placeholder="Address"/>
+            <br/>
+            <input id="BPhone" [disabled]="Lock" #phone type="number" placeholder="Phone Number"/>
+            <button [disabled]="Lock" (click)="SendBill(branchname, delortaorr, address.value, phone.value);" class="btn-red-flat" type='button'>Send</button>
+        </div>
+    </section>
+    <div class='flex-column' style="margin: 0 auto;text-align: center;" class='chat'>
+        <p>Chat with Employee to Reserve</p>
+        <textarea readonly #chararea style="margin: 0 auto;resize: none;width: 300px;height: 200px;" id="chatarea"></textarea>
+        <div class='controlchat margin-rl-auto flex-row justify-content-center'>
+            <input #word (keyup.enter)="pressEnter(word, chararea, delortaorr.value == 'Reserve');" id="msgtoemp" type="text" placeholder="Enter your message"/>
+            <button class="btn" (click)="SendChatToEmployee(word, chararea, delortaorr.value == 'Reserve');">»</button>
+        </div>
+    </div>
+    <div class='billpacket flex-row flex-wrap'>
+        <div class="TheProduct" *ngFor="let pro of BuyedItems">
+            <div class="flex-row"><p><i class="fa-solid fa-angles-right"></i> {{pro.title}} </p></div>
+            <img class='width-100 height-150px open' [src]="pro.image" alt="" />
+            <p><i class="fa-solid fa-angle-right"></i> Price: {{pro.price}}</p>
+            <p><i class="fa-solid fa-angle-right"></i> Weight: {{pro.weight}} KG</p>
+            <p>{{pro.categoryString}} <i class="fa-solid fa-chevron-left"></i></p>
+        </div>
+    </div>
+</article>

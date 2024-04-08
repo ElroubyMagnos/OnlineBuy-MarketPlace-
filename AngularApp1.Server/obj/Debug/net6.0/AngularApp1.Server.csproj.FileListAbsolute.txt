@@ -1,0 +1,415 @@
+F:\Abdullah\Desktop\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\spa.proxy.json
+F:\Abdullah\Desktop\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\appsettings.Development.json
+F:\Abdullah\Desktop\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\appsettings.json
+F:\Abdullah\Desktop\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.exe
+F:\Abdullah\Desktop\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.deps.json
+F:\Abdullah\Desktop\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.runtimeconfig.json
+F:\Abdullah\Desktop\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.dll
+F:\Abdullah\Desktop\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.pdb
+F:\Abdullah\Desktop\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.AspNetCore.SpaProxy.dll
+F:\Abdullah\Desktop\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Abdullah\Desktop\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Abdullah\Desktop\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Abdullah\Desktop\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Abdullah\Desktop\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.csproj.AssemblyReference.cache
+F:\Abdullah\Desktop\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\spa.proxy.json
+F:\Abdullah\Desktop\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.GeneratedMSBuildEditorConfig.editorconfig
+F:\Abdullah\Desktop\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.AssemblyInfoInputs.cache
+F:\Abdullah\Desktop\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.AssemblyInfo.cs
+F:\Abdullah\Desktop\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.csproj.CoreCompileInputs.cache
+F:\Abdullah\Desktop\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.MvcApplicationPartsAssemblyInfo.cs
+F:\Abdullah\Desktop\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.MvcApplicationPartsAssemblyInfo.cache
+F:\Abdullah\Desktop\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets.build.json
+F:\Abdullah\Desktop\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets.development.json
+F:\Abdullah\Desktop\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets\msbuild.AngularApp1.Server.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Abdullah\Desktop\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets\msbuild.build.AngularApp1.Server.props
+F:\Abdullah\Desktop\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AngularApp1.Server.props
+F:\Abdullah\Desktop\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AngularApp1.Server.props
+F:\Abdullah\Desktop\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Abdullah\Desktop\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\scopedcss\bundle\AngularApp1.Server.styles.css
+F:\Abdullah\Desktop\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.csproj.CopyComplete
+F:\Abdullah\Desktop\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.dll
+F:\Abdullah\Desktop\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\refint\AngularApp1.Server.dll
+F:\Abdullah\Desktop\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.pdb
+F:\Abdullah\Desktop\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.genruntimeconfig.cache
+F:\Abdullah\Desktop\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\ref\AngularApp1.Server.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\appsettings.Development.json
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\appsettings.json
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\spa.proxy.json
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.deps.json
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.runtimeconfig.json
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.pdb
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.csproj.AssemblyReference.cache
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\obj\Debug\net6.0\spa.proxy.json
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.GeneratedMSBuildEditorConfig.editorconfig
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.AssemblyInfoInputs.cache
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.AssemblyInfo.cs
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.csproj.CoreCompileInputs.cache
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\obj\Debug\net6.0\staticwebassets.build.json
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\obj\Debug\net6.0\staticwebassets.development.json
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\obj\Debug\net6.0\staticwebassets\msbuild.AngularApp1.Server.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\obj\Debug\net6.0\staticwebassets\msbuild.build.AngularApp1.Server.props
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AngularApp1.Server.props
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AngularApp1.Server.props
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\obj\Debug\net6.0\scopedcss\bundle\AngularApp1.Server.styles.css
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\obj\Debug\net6.0\refint\AngularApp1.Server.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.pdb
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.genruntimeconfig.cache
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\obj\Debug\net6.0\ref\AngularApp1.Server.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.MvcApplicationPartsAssemblyInfo.cs
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.MvcApplicationPartsAssemblyInfo.cache
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.exe
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Azure.Core.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Azure.Identity.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Humanizer.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.AspNetCore.SpaProxy.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Mono.TextTemplating.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\System.CodeDom.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\System.Memory.Data.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\System.Text.Json.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.csproj.CopyComplete
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\connection.txt
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\obj\Debug\net6.0\refint\AngularApp1.Server.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.pdb
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\appsettings.Development.json
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\appsettings.json
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\spa.proxy.json
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\connection.txt
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.exe
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.deps.json
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.runtimeconfig.json
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.pdb
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Azure.Core.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Azure.Identity.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Humanizer.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.AspNetCore.SpaProxy.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\System.CodeDom.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\System.Text.Json.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.csproj.AssemblyReference.cache
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\obj\Debug\net6.0\spa.proxy.json
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.AssemblyInfoInputs.cache
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.AssemblyInfo.cs
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.csproj.CoreCompileInputs.cache
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.MvcApplicationPartsAssemblyInfo.cs
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\obj\Debug\net6.0\staticwebassets.build.json
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\obj\Debug\net6.0\staticwebassets.development.json
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\obj\Debug\net6.0\staticwebassets\msbuild.AngularApp1.Server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\obj\Debug\net6.0\staticwebassets\msbuild.build.AngularApp1.Server.props
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AngularApp1.Server.props
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AngularApp1.Server.props
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\obj\Debug\net6.0\scopedcss\bundle\AngularApp1.Server.styles.css
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.csproj.CopyComplete
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.genruntimeconfig.cache
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\AngularApp1.Server\obj\Debug\net6.0\ref\AngularApp1.Server.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\appsettings.Development.json
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\appsettings.json
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\connection.txt
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\spa.proxy.json
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.exe
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.deps.json
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.runtimeconfig.json
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.pdb
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Azure.Core.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Azure.Identity.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Humanizer.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.AspNetCore.SpaProxy.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\System.CodeDom.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\System.Text.Json.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.csproj.AssemblyReference.cache
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\obj\Debug\net6.0\spa.proxy.json
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.AssemblyInfoInputs.cache
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.AssemblyInfo.cs
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.csproj.CoreCompileInputs.cache
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.MvcApplicationPartsAssemblyInfo.cs
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\obj\Debug\net6.0\staticwebassets.build.json
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\obj\Debug\net6.0\staticwebassets.development.json
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\obj\Debug\net6.0\staticwebassets\msbuild.AngularApp1.Server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\obj\Debug\net6.0\staticwebassets\msbuild.build.AngularApp1.Server.props
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AngularApp1.Server.props
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AngularApp1.Server.props
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\obj\Debug\net6.0\scopedcss\bundle\AngularApp1.Server.styles.css
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\obj\Debug\net6.0\AngularA.7BAE9056.Up2Date
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\obj\Debug\net6.0\refint\AngularApp1.Server.dll
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.pdb
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.genruntimeconfig.cache
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\obj\Debug\net6.0\ref\AngularApp1.Server.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\appsettings.json
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\connection.txt
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\spa.proxy.json
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.exe
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.deps.json
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.runtimeconfig.json
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.pdb
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Humanizer.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\obj\Debug\net6.0\spa.proxy.json
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\obj\Debug\net6.0\staticwebassets\msbuild.AngularApp1.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\obj\Debug\net6.0\staticwebassets\msbuild.build.AngularApp1.Server.props
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AngularApp1.Server.props
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AngularApp1.Server.props
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\obj\Debug\net6.0\scopedcss\bundle\AngularApp1.Server.styles.css
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\obj\Debug\net6.0\AngularA.7BAE9056.Up2Date
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\obj\Debug\net6.0\refint\AngularApp1.Server.dll
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.pdb
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\AngularApp1.Server\obj\Debug\net6.0\ref\AngularApp1.Server.dll

@@ -1,0 +1,23 @@
+.t-center {
+  text-align: center !important;
+}
+.t-right {
+  text-align: right !important;
+}
+.t-left {
+  text-align: left !important;
+}
+.margin-rl-auto {
+  margin-right: auto;
+  margin-left: auto;
+}
+.margin-tb-auto {
+  margin-top: auto;
+  margin-bottom: auto;
+}
+.margin-left-auto {
+  margin-left: auto;
+}
+.margin-right-auto {
+  margin-right: auto;
+}

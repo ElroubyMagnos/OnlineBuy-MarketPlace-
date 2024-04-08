@@ -1,0 +1,2 @@
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\angularapp1.client\obj\Release\angularapp1.client.esproj.CoreCompileInputs.cache
+D:\AngularOnlineBuy_Mina\angularapp1.client\obj\Release\angularapp1.client.esproj.CoreCompileInputs.cache

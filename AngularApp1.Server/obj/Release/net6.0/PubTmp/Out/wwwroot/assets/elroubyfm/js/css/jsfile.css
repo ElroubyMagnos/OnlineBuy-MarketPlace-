@@ -1,0 +1,76 @@
+.btncontainer {
+  background-color: white;
+  display: flex;
+  align-items: center;
+  gap: 3px;
+  margin: inherit;
+}
+.btncontainer .sliderbtn {
+  background-color: black;
+  color: white;
+  border: none;
+  padding: 1.5 5px;
+  width: fit-content;
+  height: fit-content;
+  font-size: 15px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+.popup {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: none;
+}
+.alertpopup {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: none;
+}
+.alertpopup .cont {
+  background-color: white;
+  width: 75%;
+  height: 50%;
+  transform: translateY(25%);
+  margin: 0 auto;
+  padding: 25px;
+  text-align: center;
+}
+.alertpopup .cont .header {
+  position: relative;
+  background-color: #EEE;
+  width: 100%;
+  height: 30px;
+  z-index: 1;
+  text-align: left;
+}
+.alertpopup .cont .header .closebtn {
+  position: absolute;
+  background-color: red;
+  border: none;
+  padding: 5px;
+  height: inherit;
+  width: 35px;
+}
+.alertpopup .cont .header .closebtn:hover {
+  background-color: blue;
+  border-radius: 5px;
+}
+.alertpopup .cont .textarea {
+  line-height: 1.7;
+  padding: 15px;
+  text-align: center;
+  resize: none;
+  border: none;
+  width: 91.5%;
+  height: 88%;
+  margin: 0 auto;
+  outline: none;
+}

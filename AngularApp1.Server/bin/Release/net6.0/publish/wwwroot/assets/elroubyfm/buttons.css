@@ -1,0 +1,231 @@
+:root {
+  --blue: #0099e5;
+  --red: #ff4c4c;
+  --green: #34bf49;
+  --first: #DDD;
+  --black: #00112c;
+  --text: #52565e;
+}
+/* upscroll */
+#upscroll {
+  position: fixed;
+  height: 50px;
+  width: 50px;
+  border: none;
+  border-radius: 10px;
+  padding: 10px;
+  display: none;
+  bottom: 20px;
+  right: 20px;
+  background-color: gray;
+}
+#upscroll:hover {
+  background-color: black;
+  color: white;
+}
+/* End upscroll */
+/*Dynamics*/
+.btn-p4-p10 {
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+}
+.btn-in-height {
+  height: inherit;
+}
+.btn-in-width {
+  width: inherit;
+}
+.btn-padding-5-10 {
+  padding: 5px 10px;
+}
+.btn-padding-3-8 {
+  padding: 3px 8px;
+}
+/*End Dynamics*/
+/*Buttons*/
+.btn-norad,
+.btn-blue-flat,
+.btn-red-flat,
+.btn-green-flat {
+  border-radius: 0;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+}
+.btn,
+.btn-blue,
+.btn-red,
+.btn-green {
+  border: 0;
+  background-color: var(--first);
+  margin: 2px;
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-size: 20px;
+  cursor: pointer;
+}
+.btn:hover {
+  background-color: var(--text);
+}
+.btn-blue,
+.btn-blue-flat {
+  background-color: var(--blue);
+}
+.btn-blue:hover,
+.btn-blue-flat:hover {
+  background-color: #6b6bff;
+}
+.btn-red,
+.btn-red-flat {
+  background-color: var(--red);
+}
+.btn-red:hover,
+.btn-red-flat:hover {
+  background-color: #ff6b6b;
+}
+.btn-green,
+.btn-green-flat {
+  background-color: var(--green);
+}
+.btn-green:hover,
+.btn-green-flat:hover {
+  background-color: #8ffbc3;
+}
+/*End Buttons*/
+/*Effects*/
+.btnef,
+.ltor,
+.rtol,
+.ltordown,
+.rtoldown {
+  position: relative;
+}
+.btnef::before,
+.ltor::before,
+.rtol::before,
+.ltordown::before,
+.rtoldown::before {
+  content: "";
+  background-color: var(--black);
+  position: absolute;
+  width: 0;
+  height: 0;
+  transition: all linear 0.7s;
+}
+.ltor::before {
+  top: 0;
+  left: 0;
+}
+.ltor:hover::before,
+.rtol:hover::before,
+.ltordown:hover::before,
+.rtoldown:hover::before {
+  width: 100%;
+  height: 1px;
+}
+.rtol::before {
+  top: 0;
+  right: 0;
+}
+.ltordown::before {
+  bottom: 0;
+  left: 0;
+}
+.rtoldown::before {
+  bottom: 0;
+  right: 0;
+}
+.uandd,
+.landr {
+  position: relative;
+}
+.uandd:hover::before,
+.uandd:hover::after {
+  width: 100%;
+}
+.landr:hover::before,
+.landr:hover::after {
+  height: 100%;
+}
+.uandd::before {
+  position: absolute;
+  content: "";
+  top: 0;
+  left: 0;
+  width: 0;
+  height: 1.5px;
+  background-color: var(--black);
+  transition: all linear 0.5s;
+}
+.uandd::after {
+  position: absolute;
+  content: "";
+  bottom: 0;
+  right: 0;
+  width: 0;
+  height: 1.5px;
+  background-color: var(--black);
+  transition: all linear 0.5s;
+}
+.landr::before {
+  position: absolute;
+  content: "";
+  left: 0;
+  bottom: 0;
+  width: 1.5px;
+  height: 0;
+  background-color: var(--black);
+  transition: all linear 0.5s;
+}
+.landr::after {
+  position: absolute;
+  content: "";
+  top: 0;
+  right: 0;
+  width: 1.5px;
+  height: 0;
+  background-color: var(--black);
+  transition: all linear 0.5s;
+}
+.squareout:hover::before {
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+.squareout::before {
+  position: absolute;
+  content: "";
+  width: 0;
+  height: 0;
+  top: 50%;
+  left: 50%;
+  transition: all linear 0.6s;
+  background-color: white;
+  opacity: 0.3;
+  z-index: 0;
+}
+.squareout {
+  position: relative;
+}
+.movingair:hover::before {
+  left: 200%;
+}
+.movingair::before {
+  content: "";
+  background-color: white;
+  opacity: 0.33;
+  z-index: 0;
+  transform: skew(35deg);
+  width: 100%;
+  height: 100%;
+  transition: all ease-in-out 0.5s;
+  top: 0;
+  left: -150%;
+  position: absolute;
+}
+.movingair {
+  position: relative;
+  overflow: hidden;
+}
+/*End Effects*/

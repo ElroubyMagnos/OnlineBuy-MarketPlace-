@@ -1,0 +1,9 @@
+*
+{
+    transition: all linear 1s;
+}
+
+html
+{
+    background-color: black;
+}

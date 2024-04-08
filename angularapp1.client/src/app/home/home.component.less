@@ -1,0 +1,128 @@
+@maincolor: #CF0000;
+@btncolor: #E8F9FD;
+@hovercolor: #59CE8F;
+@btnhover: #64CCC5;
+@secondColor: #053950;
+
+.SearchPanel
+{
+    background-color: @maincolor;
+    width: 400px;
+}
+
+.SearchBox
+{
+    position: relative;
+    top: 20%;
+}
+
+.caty
+{
+    text-decoration: none;
+    font-size: 20px;
+    background-color: @secondColor;
+    border-radius: 5px;
+    color: white;
+    padding: 5px;
+    margin-left: 5px;
+    margin-bottom: 15px;
+
+    &:hover
+    {
+        font-size: 25px;
+    }
+}
+
+.products
+{
+    .product
+    {
+        margin-left: 5px;
+        background-color: @maincolor;
+        width: 300px;
+        height: fit-content;
+        margin: 10px;
+        padding: 7px;
+
+        p
+        {
+            background-color: @secondColor;
+            width: fit-content;
+            padding: 5px;
+            color: white;
+        }
+    }
+}
+
+.cats
+{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.bag
+{
+    
+    background-color: rgba(255, 255, 255, 0.5);
+    width: 300px;
+    height: 100vh;
+    position: absolute;
+    left: -290px;
+    top: 100px;
+
+    .AddedProduct
+    {
+        background-color: #053950;
+    }
+
+    .board
+    {
+        padding: 5px;
+        background-color: @maincolor;
+        border: 3px solid black;
+    }
+
+    i
+    {
+        position: absolute;
+        left: 300px;
+        font-size: 50px;
+        top: 100px;
+        background-color: white;
+        padding: 5px;
+        border-radius: 10px;
+        cursor: pointer;
+    }
+}
+
+#order
+{
+    position: fixed;
+    right: 5px;
+    bottom: 5px;
+    font-size: 30px;
+    background-color: white;
+    z-index: 999;
+}
+
+#buffering
+{
+    position: fixed;
+    background-color: white;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 99999;
+
+    img
+    {
+        text-align: center;
+        margin: 0 auto;
+        display: flex;
+        justify-content: center;
+    }
+}

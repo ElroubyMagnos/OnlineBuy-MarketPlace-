@@ -1,0 +1,44 @@
+<section class="t-center cats">
+    <a *ngFor="let Cat of Categories" class="caty" [routerLink]="'/Search/'+ Cat.name">{{Cat.name}}</a>
+</section>
+
+<section class="t-center mt-1 SearchPanel margin-rl-auto height-100px">
+    <b>Put Bill Number.</b>
+    <div class="SearchBox">
+        <input #billenter (keyup)="WriteBill(billenter)" class="width-250px height-40px" name="sea" type="search">
+        <button style="background-color: white;border: none;font-size: large;width: 50px;" class="ml-5px" (click)="EnteredBillNumber(billenter.value);">Go</button>
+    </div>
+</section>
+
+<section class="flex-row-wrap products justify-content-center">
+    <div *ngFor="let pro of Products" [title]="pro.title" class='product'>
+        <div class="flex-row"><p><i class="fa-solid fa-angles-right"></i> {{pro.title}} </p><span>{{pro.countAvailable}}</span></div>
+        <img class='width-100 height-150px open' [src]="pro.image" alt="" />
+        <p><i class="fa-solid fa-angle-right"></i> Price: {{pro.price}}</p>
+        <p><i class="fa-solid fa-angle-right"></i> Weight: {{pro.weight}} KG</p>
+        <p onclick="">{{pro.categoryString}} <i class="fa-solid fa-chevron-left"></i></p>
+        <button *ngIf="pro.countAvailable > 0" (click)="SelectedProducts.push(pro);AllPrice = AllPrice + pro.price;AllWeight = AllWeight + pro.weight;AllCount = AllCount + 1;" class="btn">ADD TO CART</button>
+        <button style="background-color: black;color:white;" *ngIf="pro.countAvailable == 0" class="btn">Not Available Now</button>
+    </div>
+</section>
+
+<section #bag class="bag">
+    <i (click)="OpenBag(bag);" class="fa-solid fa-bag-shopping"></i>
+    <div class="board">
+        <p>All Price: {{AllPrice}}</p>
+        <p>All Weight: {{AllWeight}}</p>
+        <p>Count: {{AllCount}}</p>
+    </div>
+    <div *ngFor="let apro of SelectedProducts" class="AddedProduct t-center mb-10px">
+        <span class="btn margin-rl-auto t-center">{{apro.title}}: For {{apro.price}}, Weight: {{apro.weight}}</span> 
+        <button style="text-align: right;margin-right: auto;" (click)="SelectedProducts.splice(SelectedProducts.indexOf(apro), 1);AllPrice = AllPrice - apro.price;AllWeight = AllWeight - apro.weight;AllCount = AllCount - 1;" class="btn btn-red-flat RemoveButton">X</button>
+    </div>
+</section>
+
+<div class="Ordercontainer">
+    <button (click)="Order();" class="btn" id="order">Order</button>
+</div>
+
+<div id="buffering">
+    <img src="assets/buffering.gif" alt="">
+</div>

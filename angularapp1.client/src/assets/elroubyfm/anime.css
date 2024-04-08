@@ -1,0 +1,228 @@
+@keyframes rotateimg {
+  0% {
+    transform: rotate(0);
+  }
+  25% {
+    transform: rotate(90deg);
+  }
+  50% {
+    transform: rotate(180deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+@keyframes bright {
+  0% {
+    opacity: 0;
+  }
+  10% {
+    opacity: 0.1;
+  }
+  20% {
+    opacity: 0.2;
+  }
+  30% {
+    opacity: 0.3;
+  }
+  40% {
+    opacity: 0.4;
+  }
+  50% {
+    opacity: 0.5;
+  }
+  60% {
+    opacity: 0.6;
+  }
+  70% {
+    opacity: 0.7;
+  }
+  80% {
+    opacity: 0.8;
+  }
+  90% {
+    opacity: 0.9;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@keyframes landinganime {
+  0% {
+    border-radius: 5px;
+  }
+  25% {
+    border-radius: 10px;
+  }
+  50% {
+    border-radius: 15px;
+  }
+  75% {
+    border-radius: 20px;
+  }
+  100% {
+    border-radius: 25px;
+  }
+}
+@keyframes containeroneanime {
+  0% {
+    border-radius: 5%;
+  }
+  5% {
+    border-radius: 10%;
+  }
+  10% {
+    border-radius: 15%;
+  }
+  15% {
+    border-radius: 20%;
+  }
+  20% {
+    border-radius: 25%;
+  }
+  25% {
+    border-radius: 30%;
+  }
+  30% {
+    border-radius: 35%;
+  }
+  35% {
+    border-radius: 40%;
+  }
+  40% {
+    border-radius: 45%;
+  }
+  45% {
+    border-radius: 50%;
+  }
+  100% {
+    border-radius: 50%;
+  }
+}
+@keyframes navanimation {
+  10% {
+    top: -50px;
+  }
+  20% {
+    top: -45px;
+  }
+  30% {
+    top: -40px;
+  }
+  40% {
+    top: -35px;
+  }
+  50% {
+    top: -30px;
+  }
+  60% {
+    top: -25px;
+  }
+  70% {
+    top: -20px;
+  }
+  80% {
+    top: -15px;
+  }
+  90% {
+    top: -10px;
+  }
+  100% {
+    top: 0;
+  }
+}
+.ghost {
+  animation: ghost 4s infinite;
+}
+@keyframes ghost {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+.continue-circle {
+  animation: continue-circle 4s infinite;
+}
+@keyframes continue-circle {
+  0% {
+    rotate: 0deg;
+  }
+  50% {
+    rotate: 180deg;
+  }
+  100% {
+    rotate: 360deg;
+  }
+}
+.continue-circle-plus {
+  animation: continue-circle-plus 4s infinite;
+}
+@keyframes continue-circle-plus {
+  100% {
+    rotate: 360deg;
+  }
+}
+.crazy-circle {
+  animation: crazy-circle 4s infinite;
+}
+@keyframes crazy-circle {
+  100% {
+    rotate: 100turn;
+  }
+}
+.toyourface {
+  transition: all linear 0.5s;
+}
+.toyourface:hover {
+  transform: scale(1.1) rotate(5deg);
+}
+.RiseUp {
+  animation: RiseUp 1s forwards;
+}
+@keyframes RiseUp {
+  0% {
+    transform: translateY(0);
+  }
+  75% {
+    transform: translateY(-10px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+.RiseDown {
+  animation: RiseDown 1s forwards;
+}
+@keyframes RiseDown {
+  0% {
+    transform: translateY(0);
+  }
+  75% {
+    transform: translateY(10px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+.RiseAppear {
+  animation: RiseAppear 1.5s forwards;
+}
+@keyframes RiseAppear {
+  0% {
+    transform: translateY(0);
+    opacity: 0;
+  }
+  50% {
+    transform: translateY(-10px);
+    opacity: 0.5;
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}

@@ -1,0 +1,5 @@
+F:\Abdullah\Desktop\AngularApp1\angularapp1.client\obj\Debug\angularapp1.client.esproj.CoreCompileInputs.cache
+F:\Abdullah\Desktop\AngularOnlineBuy\angularapp1.client\obj\Debug\angularapp1.client.esproj.CoreCompileInputs.cache
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy\angularapp1.client\obj\Debug\angularapp1.client.esproj.CoreCompileInputs.cache
+D:\Windows Helper\Abdullah\Desktop\AngularOnlineBuy_Mina\angularapp1.client\obj\Debug\angularapp1.client.esproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\AngularOnlineBuy_Mina\angularapp1.client\obj\Debug\angularapp1.client.esproj.CoreCompileInputs.cache

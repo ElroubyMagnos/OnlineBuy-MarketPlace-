@@ -1,0 +1,33 @@
+#fatora {
+  text-align: center;
+}
+#fatora p,
+#fatora h1 {
+  color: white;
+  background-color: #CF0000;
+  width: fit-content;
+  height: fit-content;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 5px auto;
+}
+.DataBox {
+  background-color: white;
+  width: fit-content;
+  height: fit-content;
+  padding: 5px;
+  margin: 10px auto;
+  border-radius: 2px;
+}
+.billpacket {
+  margin: 10px auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.billpacket .TheProduct {
+  background-color: white;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 5px;
+}

@@ -1,0 +1,1 @@
+﻿Data Source=localhost;Initial Catalog=angulardb;User Id=sa;Password=123;TrustServerCertificate=True

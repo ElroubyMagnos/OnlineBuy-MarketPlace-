@@ -1,0 +1,369 @@
+* {
+  transition: all linear 1s;
+}
+nav {
+  background-color: #CF0000;
+}
+@media (max-width: 767px) {
+  nav {
+    flex-direction: column;
+  }
+}
+#db h1 {
+  color: white;
+  background-color: #CF0000;
+  width: fit-content;
+  position: relative;
+  margin: 25px auto;
+}
+#db h1:hover {
+  background-color: #64CCC5;
+}
+#db h1:hover::before {
+  background-color: #CF0000;
+}
+#db h1:hover::after {
+  background-color: #CF0000;
+}
+#db h1::before {
+  content: '';
+  background-color: black;
+  display: block;
+  position: absolute;
+  width: 242px;
+  height: 5px;
+}
+#db h1::after {
+  content: '';
+  background-color: black;
+  display: block;
+  position: absolute;
+  width: 242px;
+  height: 5px;
+}
+#db .Post {
+  background-color: #59CE8F;
+}
+#db .Post .changecat {
+  padding: 50px;
+  border: 2px dotted black;
+}
+#db .Post .CatManage button {
+  margin: 0 auto;
+}
+#db .Post input,
+#db .Post textarea,
+#db .Post select {
+  margin: 5px auto;
+  display: block;
+  padding: 25px;
+}
+#db .Post input {
+  font-size: 25px;
+}
+#db .Post textarea {
+  font-size: 20px;
+  width: 500px;
+  height: 350px;
+  resize: none;
+}
+#db .Post button[type="submit"] {
+  margin: 5px auto;
+  display: block;
+  padding: 10px 20px;
+}
+#home .product,
+#fatora .product {
+  padding: 5px 20px;
+  border-radius: 5px;
+  margin: 5px;
+  background-color: #CF0000;
+  width: 250px;
+  height: 475px;
+  text-align: center;
+  color: white;
+  position: relative;
+}
+#home .product div,
+#fatora .product div {
+  justify-content: space-between;
+  align-items: center;
+}
+#home .product div span,
+#fatora .product div span {
+  background-color: red;
+  padding: 0 5px;
+  width: fit-content;
+  height: fit-content;
+}
+#home .product img,
+#fatora .product img {
+  border: 3px solid #59CE8F;
+}
+#home .product p:first-child,
+#fatora .product p:first-child {
+  background-color: #59CE8F;
+  width: fit-content;
+  height: fit-content;
+  padding: 5px;
+  border-radius: 3px;
+}
+#home .product button,
+#fatora .product button {
+  background-color: #E8F9FD;
+  width: 100%;
+  height: 50px;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+}
+#home .product button:hover,
+#fatora .product button:hover {
+  background-color: red;
+}
+#home .product p:nth-child(5),
+#fatora .product p:nth-child(5) {
+  text-align: right;
+  margin-left: auto;
+  cursor: pointer;
+}
+#home .product p,
+#fatora .product p {
+  background-color: #59CE8F;
+  width: fit-content;
+  height: fit-content;
+  padding: 5px;
+  border-radius: 3px;
+}
+#fatora .product {
+  background-color: black;
+  height: 535px;
+}
+#home .Cart {
+  text-align: center;
+  position: fixed;
+  background-color: rgba(0, 0, 0, 0.5);
+  height: 100%;
+  width: 300px;
+  left: -300px;
+  top: 0;
+  z-index: 1;
+}
+#home .Cart .packet {
+  overflow-y: auto;
+  height: 79%;
+}
+#home .Cart .packet .OneProduct {
+  padding: 2px;
+  margin: 5px;
+  background-color: #CF0000;
+  border: 2px solid black;
+}
+#home .Cart .packet .OneProduct .productremover {
+  display: block;
+  margin-right: auto;
+  text-align: left;
+}
+#home .Cart .packet .OneProduct div p {
+  margin: 0;
+}
+#home .Cart .AllContainer {
+  background-color: red;
+  padding: 5px;
+  border-radius: 5px;
+}
+#home .Cart h1 {
+  color: white;
+  background-color: #59CE8F;
+  z-index: 2;
+}
+#home .Cart i {
+  position: absolute;
+  right: -38px;
+  top: 100px;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 5px;
+  color: red;
+  cursor: pointer;
+}
+#home .Cart #CountPacket {
+  position: absolute;
+  right: -42px;
+  top: 72px;
+  display: block;
+  color: red;
+  font-weight: bolder;
+  font-size: 25px;
+}
+#home #buyselected {
+  position: fixed;
+  right: 10px;
+  bottom: 25px;
+  font-size: larger;
+  z-index: 9;
+  background-color: red;
+  border: none;
+  color: whitesmoke;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 5px;
+  padding-right: 5px;
+  cursor: pointer;
+}
+#home .blackscreen {
+  background-color: rgba(0, 0, 0, 0.5);
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  z-index: 4;
+  top: 0;
+  left: 0;
+  display: none;
+}
+#home .blackscreen .Buypopup {
+  background-color: #CF0000;
+  position: fixed;
+  transform: translate(60%, 30%);
+  top: 0;
+  left: 0;
+  width: 40%;
+  height: 60%;
+  z-index: 5;
+  padding: 20px;
+  border: 2px dotted red;
+  border-radius: 5px;
+}
+@media (max-width: 767px) {
+  #home .blackscreen .Buypopup {
+    width: 60%;
+    transform: translate(20%, 30%);
+  }
+}
+#home .blackscreen .Buypopup input {
+  max-width: 90%;
+}
+#home .blackscreen .Buypopup p {
+  background-color: #59CE8F;
+  width: fit-content;
+  height: fit-content;
+  margin: 5px auto;
+  padding: 5px;
+  color: white;
+  border-radius: 5px;
+}
+#home .blackscreen .Buypopup img {
+  border: 2px solid black;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+  max-width: 100%;
+}
+#home .blackscreen .Buypopup button:first-child {
+  background-color: red;
+  border: none;
+  width: 35px;
+  height: 35px;
+  font-size: 20px;
+  cursor: pointer;
+}
+#home .blackscreen .Buypopup button:last-child {
+  margin: 10px auto;
+  display: block;
+}
+.CatContainer p {
+  background-color: #59CE8F;
+  border-radius: 10px;
+  padding: 5px 10px;
+  color: whitesmoke;
+  cursor: pointer;
+}
+.CatContainer p:hover {
+  background-color: #CF0000;
+}
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+/* Track */
+::-webkit-scrollbar-track {
+  background: white;
+}
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: red;
+}
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #64CCC5;
+}
+#fatora {
+  background-color: #CF0000;
+  padding: 25px;
+  margin-top: 10px;
+}
+#fatora .datacontainer {
+  width: fit-content;
+  height: fit-content;
+  background-color: #59CE8F;
+  padding: 25px;
+  border-radius: 5px;
+}
+#fatora .datacontainer button {
+  display: block;
+  margin-left: auto;
+  padding: 10px;
+  font-size: 15px;
+  margin-top: 7px;
+}
+#fatora input {
+  padding: 10px;
+  border-radius: 15px;
+  outline: none;
+  border: none;
+  display: block;
+  font-size: larger;
+  margin-top: 5px;
+}
+#fatora h1 {
+  background-color: #59CE8F;
+  width: fit-content;
+  height: fit-content;
+  text-align: center;
+  margin: 0 auto;
+  padding: 15px;
+}
+#fatora h1 span {
+  background-color: red;
+  border-radius: 10px;
+  padding: 5px;
+}
+#fatora p {
+  font-size: 25px;
+  background-color: #59CE8F;
+  padding: 10px;
+  border-radius: 10px;
+}
+#fatora select {
+  padding: 10px;
+  background-color: red;
+  font-size: 25px;
+}
+#billnumberpanel {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 9;
+}
+#billnumberpanel div {
+  background-color: #CF0000;
+  width: fit-content;
+  height: fit-content;
+  transform: translateY(100%);
+  margin: 0 auto;
+  padding: 5px;
+  border-radius: 5px;
+}
+.billpacket {
+  background-color: #CF0000;
+}

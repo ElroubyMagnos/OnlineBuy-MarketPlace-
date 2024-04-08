@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:4200",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "D:\\AngularOnlineBuy_Mina\\AngularApp1.Server\\..\\angularapp1.client",
+"MaxTimeoutInSeconds": "120"
+}
+}
